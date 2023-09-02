@@ -10,6 +10,9 @@ This project seeks to assess which economic variables, such as inflation, constr
 rental prices may explain the persistent increasing trend on property prices in Portugal. 
 Aside from that we try to build a model to forecast property prices.
 
+![screenshot1](images/property_prices_graph.png)
+
+
 ## Technical Objective:
 Implement a model to confidently predict future property prices as well as try to identify 
 relevant explanatory variables. To reach this goal, both machine learning and statistical models
@@ -31,7 +34,7 @@ The datasets are:
 - [Loan Interest Rates](https://www.pordata.pt/portugal/taxas+de+juro+sobre+novas+operacoes+de+emprestimos+(media+anual)+a+particulares+total+e+por+tipo+de+finalidade-2845)
 - [Households'savings rate](https://www.pordata.pt/en/portugal/savings+rate+of+households-2340)
 
-![screenshot1](images/property_prices_graph.png)
+
 
 ## Models used:
 
