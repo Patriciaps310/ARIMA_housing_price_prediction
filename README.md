@@ -53,3 +53,6 @@ Autoregressive Integrated Moving Average is used for times series data. It tries
 future values based on past observations os property prices. It takes three inputs - the
 number of lagged observations, the number of times of differencing of the data, and 
 the size of the moving average window.
+
+![ACF](images/acf.png)
+![PACF](images/pacf.png)
